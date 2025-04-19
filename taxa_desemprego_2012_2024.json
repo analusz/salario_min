@@ -1,0 +1,54 @@
+[
+    {
+        "ano": 2012,
+        "taxa_desocupacao": 7.4
+    },
+    {
+        "ano": 2013,
+        "taxa_desocupacao": 7.3
+    },
+    {
+        "ano": 2014,
+        "taxa_desocupacao": 7.0
+    },
+    {
+        "ano": 2015,
+        "taxa_desocupacao": 8.9
+    },
+    {
+        "ano": 2016,
+        "taxa_desocupacao": 11.7
+    },
+    {
+        "ano": 2017,
+        "taxa_desocupacao": 12.6
+    },
+    {
+        "ano": 2018,
+        "taxa_desocupacao": 12.2
+    },
+    {
+        "ano": 2019,
+        "taxa_desocupacao": 11.8
+    },
+    {
+        "ano": 2020,
+        "taxa_desocupacao": 13.8
+    },
+    {
+        "ano": 2021,
+        "taxa_desocupacao": 14.0
+    },
+    {
+        "ano": 2022,
+        "taxa_desocupacao": 9.6
+    },
+    {
+        "ano": 2023,
+        "taxa_desocupacao": 7.8
+    },
+    {
+        "ano": 2024,
+        "taxa_desocupacao": 6.6
+    }
+]
